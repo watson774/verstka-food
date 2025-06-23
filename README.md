@@ -1,1 +1,1 @@
-Верстка на flexbox
+Верстка на bootrstrap/flexbox
